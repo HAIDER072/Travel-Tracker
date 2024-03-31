@@ -1,6 +1,5 @@
 ## Installation
 <p>Before running the website, make sure to install all dependencies by running the following command:</p>
-![Exam Success Dua - Google Chrome 31-03-2024 21_22_32](https://github.com/HAIDER072/Travel-Tracker/assets/119747109/6a28b5c6-28b3-4429-86fe-d95104f9817e)
 
 ## Database Setup
 1.Ensure that you have a MySQL database server installed and running on your machine.
